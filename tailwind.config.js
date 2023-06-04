@@ -18,6 +18,7 @@ module.exports = {
         greyLight: '#F9F9F9',
         greyBorder: '#EBE8F4',
         darkBorder: '#CAC6DA',
+        transparentWhite: '#F9F9F922',
       },
     },
   },
